@@ -9,18 +9,18 @@ int main()
     double doubleType;  
   
     
-    cout << "Size of int is: " <<  
+    cout << "Size of int is: " " bytes<<  
     sizeof(integerType) <<"\n";  
   
  
-    cout << "Size of char is: " <<  
+    cout << "Size of char is: "  " bytes<<  
     sizeof(charType) <<"\n";  
         
-    cout << "Size of float is: " <<  
+    cout << "Size of float is: "  " bytes<<  
     sizeof(floatType) <<"\n"; 
   
    
-    cout << "Size of double is: " <<  
+    cout << "Size of double is: "  " bytes<<  
     sizeof(doubleType) <<"\n";  
   
     return 0;  
